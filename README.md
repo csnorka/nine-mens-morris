@@ -1,1 +1,3 @@
-This game was created because of a subject.
+# Nine Men's Morris
+The board game implemented in Java.
+The game was created for a subject.
